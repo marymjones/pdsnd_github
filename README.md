@@ -16,4 +16,4 @@ Data files for each city are included:
  - washington.csv
 
 ### Credits
-I listened to the Taylor Swift Red album (Taylor's Version) a lot while submitting this project. Thanks Taylor xox
+I listened to the Taylor Swift Red album (Taylor's Version) a lot while submitting this project. Thank you Taylor xox
