@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 Friday February 11th 2022
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data Using Python
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics. A Python script (bikeshare.py) takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+Data files for each city are included:
+ - chicago.csv
+ - new_york_city.csv
+ - washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I listened to the Taylor Swift Red album (Taylor's Version) a lot while submitting this project. Thanks Taylor xox
