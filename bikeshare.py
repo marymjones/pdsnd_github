@@ -201,7 +201,7 @@ def display_data(df):
     else:
         keep_asking = False
     while (keep_asking):
-        print(df.iloc[start_loc:start_loc+6])
+        print(df.iloc[start_loc:start_loc+5])
         start_loc += 5
         view_display = input("Do you wish to continue? Enter yes or no -> ").lower()
         if view_display == 'yes':
